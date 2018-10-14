@@ -1,1 +1,1 @@
-# pbx-landing-page
+# proxibox-landing-page
