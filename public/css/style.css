@@ -223,10 +223,8 @@ header {
 }
 
 #particles-js{  
-    position:relative;
+   position:relative;
    padding-top: 5%;
-   background-color: transparent; 
-   background-image: url("../images/bkg.jpg"); 
    background-repeat: no-repeat; 
    background-size: cover;
    background-position: center center; 
@@ -263,9 +261,10 @@ header {
 
 .homelogo{
 		width:50%;
-		height:50%;
+        height:50%;
 	}
-	
+
+
 .img-holder {
     height: 0;
     padding-bottom: 35%;
